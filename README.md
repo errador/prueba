@@ -1,6 +1,6 @@
 # Prueba uno
 
-Me gustan los hueos fritos
+Me gustan los huevos fritos
 
 - Esto es una prueba
 
